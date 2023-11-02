@@ -1,0 +1,28 @@
+TEXTO DO BANNER
+
+<titulo>RESTAURANT
+<paragrafo>De pratos clássicos a criações surpreendentes, nosso cardápio é um requinte de sabores refinados
+
+
+TEXTO DOS BOTÕES
+
+Entradas
+Massas
+Carnes
+Bebidas
+Saladas
+Sobremesas
+
+
+TEXTO DO CAMPO DE BUSCA
+
+<placeholder> Pesquise aqui um dos pratos do nosso cardápio
+
+
+Obs.: Os textos de cada card estará dentro da coleção de dados.
+
+
+anotações minhas:
+os cards terá uma imagem, nome, categoria, descrição e preço
+
+resolver ajuste dos cards: https://www.youtube.com/watch?v=x-4z_u8LcGc
