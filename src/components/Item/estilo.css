@@ -1,0 +1,35 @@
+
+.box{
+    width: calc((1024px / 3) - 40px);
+    border: 1px solid #E3C26F;
+    margin: 20px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    flex: 1 1 auto;
+
+}
+
+.box img{
+    width: 100%;
+    border-radius: 5px 5px 0 0; 
+}
+
+.box .preco, .box .titulo, .box .categoria, .box .descricao{
+    margin: 5px;
+    
+}
+
+.box .titulo{
+    font-weight: bold;
+    
+}
+
+.box .preco{
+    text-align: right;
+}
+
+.categoria{
+    color: #daa520;
+}
+
+

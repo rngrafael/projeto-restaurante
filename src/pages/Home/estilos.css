@@ -1,0 +1,107 @@
+
+.container-banner{
+    max-width: 1024px;
+    box-sizing: border-box;
+}
+
+.banner{
+    background-image: url('../../assets/banner.png');
+    padding: 170px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.banner h1{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    text-shadow: 0 -5px 15px yellow, 0 -10px 15px red;
+    font-size: 56px;
+    text-align: center;
+    margin:0;
+}
+
+.banner p{
+    font-family: 'Dancing Script', cursive;
+    color: #daa520;
+    text-align: center;
+    font-size: 36px;
+    margin: 0;
+}
+
+
+.texto{
+    padding-top: 25px;
+    box-sizing: border-box;
+    border: 1px solid red;
+    padding:10px;
+}
+
+.cardapio{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: #daa520;
+}
+
+button{
+    width: 150px;
+    margin: 20px 5px 20px 5px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+
+.cor-1{
+    background-color: #F3F3F3;
+}
+
+.cor-2{
+    background-color: #daa520;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.btn img{
+    width: 26px;
+    margin-right: 10px;
+}
+
+.pesquisa{
+    border-radius: 20px;
+    display: flex;
+    border:2px solid #f3f3f3;
+    box-sizing: border-box;
+}
+
+.pesquisa img{
+    width: 36px;
+    margin: 5px 0 5px 5px;
+}
+
+.pesquisa input{
+    width: 100%;
+    border-radius: 0 14px 14px 0;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    margin: 2px;
+}
+
+
+.container-produto{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1024px;
+    background-color: #F3F3F3;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
