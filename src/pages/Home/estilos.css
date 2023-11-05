@@ -138,13 +138,13 @@ button{
 
     .container-banner{
         width: 100%;
-        border: 1px solid red;
+        
     }
 
     .banner{
         background-size: cover;
         padding: 50px;
-        border: 1px solid red;
+        
     }
 
     .banner h1{
