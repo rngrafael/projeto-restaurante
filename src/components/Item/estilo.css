@@ -1,6 +1,6 @@
 
 .box{
-    width: calc((1024px / 3) - 40px);
+    width: calc((100% / 3) - 40px);
     border: 1px solid #E3C26F;
     margin: 20px;
     border-radius: 5px;
@@ -31,5 +31,14 @@
 .categoria{
     color: #daa520;
 }
+
+
+@media (max-width:1024px){
+    .box{
+        width: calc((1024px / 3) - 40px);
+    }
+}
+
+
 
 
