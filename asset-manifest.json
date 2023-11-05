@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/projeto-restaurante/static/css/main.9f0343eb.css",
+    "main.css": "/projeto-restaurante/static/css/main.8981fd9e.css",
     "main.js": "/projeto-restaurante/static/js/main.bee9e49c.js",
     "static/js/787.5d5fb4aa.chunk.js": "/projeto-restaurante/static/js/787.5d5fb4aa.chunk.js",
     "static/media/mil-folhas.jpg": "/projeto-restaurante/static/media/mil-folhas.7432211a0b7dfa608866.jpg",
@@ -37,12 +37,12 @@
     "static/media/carne.png": "/projeto-restaurante/static/media/carne.e6196fe762cca1f2183d.png",
     "static/media/salada.png": "/projeto-restaurante/static/media/salada.143ff9cee8e0ea0969e3.png",
     "index.html": "/projeto-restaurante/index.html",
-    "main.9f0343eb.css.map": "/projeto-restaurante/static/css/main.9f0343eb.css.map",
+    "main.8981fd9e.css.map": "/projeto-restaurante/static/css/main.8981fd9e.css.map",
     "main.bee9e49c.js.map": "/projeto-restaurante/static/js/main.bee9e49c.js.map",
     "787.5d5fb4aa.chunk.js.map": "/projeto-restaurante/static/js/787.5d5fb4aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f0343eb.css",
+    "static/css/main.8981fd9e.css",
     "static/js/main.bee9e49c.js"
   ]
 }
